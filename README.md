@@ -9,6 +9,8 @@
 5. [如何写好链表](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/5.%E5%A6%82%E4%BD%95%E5%86%99%E5%A5%BD%E9%93%BE%E8%A1%A8.md)
 6. [队列](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/6.%E9%98%9F%E5%88%97.md)
 7. [栈](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/7.%E6%A0%88.md)
+8. [递归](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/8.%E9%80%92%E5%BD%92.md)
+9. [排序 -> 冒泡、插入、选择排序](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/9.%E6%8E%92%E5%BA%8F.md)
 
 ### 数据库
 
