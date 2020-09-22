@@ -14,6 +14,7 @@
 9. 排序
    - [冒泡、插入、选择排序](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/8.1.%E6%8E%92%E5%BA%8F%20-%20%E5%86%92%E6%B3%A1%E3%80%81%E6%8F%92%E5%85%A5%E3%80%81%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.md)
    - [归并、快排](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/8.2.%E6%8E%92%E5%BA%8F%20-%20%E5%BD%92%E5%B9%B6%E3%80%81%E5%BF%AB%E6%8E%92.md)
+   - [桶排序、计数排序、基数排序]()
 
 ### 数据库
 
