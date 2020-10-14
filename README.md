@@ -32,6 +32,7 @@
     - [有了如此高效的散列表，为什么还需要二叉树](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/13.2.%E4%BA%8C%E5%8F%89%E6%A0%91%20-%20%E6%9C%89%E4%BA%86%E5%A6%82%E6%AD%A4%E9%AB%98%E6%95%88%E7%9A%84%E6%95%A3%E5%88%97%E8%A1%A8%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E9%9C%80%E8%A6%81%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 14. 红黑树
     - [为什么工程中都用红黑树这种二叉树](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/14.1.%E7%BA%A2%E9%BB%91%E6%A0%91%20-%20%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B7%A5%E7%A8%8B%E4%B8%AD%E9%83%BD%E7%94%A8%E7%BA%A2%E9%BB%91%E6%A0%91%E8%BF%99%E7%A7%8D%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+    - [掌握这些技巧，你也可以实现一个红黑树]()
 
 ### 数据库
 
