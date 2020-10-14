@@ -29,6 +29,7 @@
     - [哈希算法在分布式系统中有哪些应用](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/12.2.%E5%93%88%E5%B8%8C%E7%AE%97%E6%B3%95%20-%20%E5%93%88%E5%B8%8C%E7%AE%97%E6%B3%95%E5%9C%A8%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8.md)
 13. 二叉树
     - [什么样的二叉树适合用数组来存储](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/13.1.%E4%BA%8C%E5%8F%89%E6%A0%91%20-%20%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91%E9%80%82%E5%90%88%E7%94%A8%E6%95%B0%E7%BB%84%E6%9D%A5%E5%AD%98%E5%82%A8.md)
+    - [有了如此高效的散列表，为什么还需要二叉树]()
 
 ### 数据库
 
