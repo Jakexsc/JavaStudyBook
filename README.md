@@ -33,6 +33,14 @@
 14. 红黑树
     - [为什么工程中都用红黑树这种二叉树](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/14.1.%E7%BA%A2%E9%BB%91%E6%A0%91%20-%20%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B7%A5%E7%A8%8B%E4%B8%AD%E9%83%BD%E7%94%A8%E7%BA%A2%E9%BB%91%E6%A0%91%E8%BF%99%E7%A7%8D%E4%BA%8C%E5%8F%89%E6%A0%91.md)
     - [掌握这些技巧，你也可以实现一个红黑树](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/14.2.%E7%BA%A2%E9%BB%91%E6%A0%91%20-%20%E6%8E%8C%E6%8F%A1%E8%BF%99%E4%BA%9B%E6%8A%80%E5%B7%A7%EF%BC%8C%E4%BD%A0%E4%B9%9F%E8%83%BD%E5%AE%9E%E7%8E%B0%E7%BA%A2%E9%BB%91%E6%A0%91.md)
+15. [递归树]()
+16. 堆
+    - [堆和堆排序]()
+    - [堆的应用]()
+
+------
+
+
 
 ### 数据库
 
