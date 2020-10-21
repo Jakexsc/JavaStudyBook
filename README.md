@@ -8,10 +8,10 @@
 4. 链表
    - [链表的基础](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/4.1.%E9%93%BE%E8%A1%A8%E7%9A%84%E5%9F%BA%E7%A1%80.md)
    - [如何写好链表](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/4.2.%E5%A6%82%E4%BD%95%E5%86%99%E5%A5%BD%E9%93%BE%E8%A1%A8.md)
-6. [队列](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/6.%E9%98%9F%E5%88%97.md)
-7. [栈](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/7.%E6%A0%88.md)
-8. [递归](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/8.%E9%80%92%E5%BD%92.md)
-9. 排序
+5. [队列](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/6.%E9%98%9F%E5%88%97.md)
+6. [栈](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/7.%E6%A0%88.md)
+7. [递归](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/8.%E9%80%92%E5%BD%92.md)
+8. 排序
    - [冒泡、插入、选择排序](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/8.1.%E6%8E%92%E5%BA%8F%20-%20%E5%86%92%E6%B3%A1%E3%80%81%E6%8F%92%E5%85%A5%E3%80%81%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.md)
    - [归并、快排](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/8.2.%E6%8E%92%E5%BA%8F%20-%20%E5%BD%92%E5%B9%B6%E3%80%81%E5%BF%AB%E6%8E%92.md)
    - [桶排序、计数排序、基数排序](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/8.3.%E7%BA%BF%E6%80%A7%E6%8E%92%E5%BA%8F%20-%20%E6%A1%B6%E6%8E%92%E5%BA%8F%E3%80%81%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F%E3%80%81%E5%9F%BA%E6%95%B0%E6%8E%92%E5%BA%8F.md)
@@ -39,6 +39,8 @@
     - [堆的应用](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/16.2.%E5%A0%86%E7%9A%84%E5%BA%94%E7%94%A8.md)
 17. [图](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/17.%E5%9B%BE.md)
 18. [深度和广度优先搜索](https://github.com/Jakexsc/JavaStudyBook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/18.%E6%B7%B1%E5%BA%A6%E5%92%8C%E5%B9%BF%E5%BA%A6%E7%9A%84%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2.md)
+19. 字符串匹配
+    - [哈希算法实现字符串匹配]()
 
 ------
 
